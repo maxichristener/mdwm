@@ -2,6 +2,5 @@
 
 Gestor de ventanas
 
-- La barra de estado es goblocks4mdwm.
-- Utiliza msurf, qutebrowser y firefox.
+- La barra de estado es Goblocks (goblocks4mdwm).
 - Los parches aplicados esten la carpeta patch.
